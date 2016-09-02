@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29570" started-at="2016-09-02T08:57:29Z" finished-at="2016-09-02T08:57:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29570" started-at="2016-09-02T08:57:29Z" finished-at="2016-09-02T08:57:58Z">
+      <class name="com.rodanandfields.test.methods.FirstRFTest">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.rodanandfields.test.methods.FirstRFTest@51081592]" name="openUrl" is-config="true" duration-ms="19501" started-at="2016-09-02T14:27:29Z" finished-at="2016-09-02T14:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="selectProductTest()[pri:0, instance:com.rodanandfields.test.methods.FirstRFTest@51081592]" name="selectProductTest" duration-ms="8829" started-at="2016-09-02T14:27:48Z" finished-at="2016-09-02T14:27:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.rodanandfields.test.methods.FirstRFTest@51081592]" name="close" is-config="true" duration-ms="1199" started-at="2016-09-02T14:27:57Z" finished-at="2016-09-02T14:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.rodanandfields.test.methods.FirstRFTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
